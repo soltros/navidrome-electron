@@ -1,0 +1,18 @@
+{
+
+  "name": "Navidrome Desktop",
+  "version": "0.0.1",
+  "description": "An Electron Webwrapper for Navidrome instances.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+
+  "repository": "https://github.com/soltros/navidrome-electron",
+  "author": "Soltros",
+  "license": "GPLv3",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+
+}
